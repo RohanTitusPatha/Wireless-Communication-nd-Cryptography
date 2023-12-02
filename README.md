@@ -23,7 +23,6 @@ Features:
 </li>
 </ul>
 
-<br>
+
 License:
 This project is licensed under the [choose a license] license - see the [LICENSE.md](LICENSE.md) file for details.
-</br>
