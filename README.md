@@ -23,6 +23,13 @@ Features:
 </li>
 </ul>
 
+## TechSTack
+1. Arduino x3
+2. rf module[FS1000A] x2
+3. lcd screen [1602 (16x2) LCD Display with I2C/IIC] x2
+4. few jumper wires
 
 License:
 This project is licensed under the [choose a license] license - see the [LICENSE.md](LICENSE.md) file for details.
+
+
