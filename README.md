@@ -30,12 +30,16 @@ Features:
 4. few jumper wires
 
 ## Implementation Images
-<img width="669" alt="image" src="https://github.com/user-attachments/assets/4f9bc8d2-23c1-489f-928a-a1235739865c">
-<img width="669" alt="image" src="https://github.com/user-attachments/assets/ae2c1f47-db37-4bf7-b1f4-53a99be7021c">
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/4f9bc8d2-23c1-489f-928a-a1235739865c">
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/ae2c1f47-db37-4bf7-b1f4-53a99be7021c">
 
 ## Result Images
+
 ![image](https://github.com/user-attachments/assets/c021e8d9-4cf8-460b-9796-65dff41a7ba7)
-<img width="1588" alt="image" src="https://github.com/user-attachments/assets/92ef675f-14bc-4fc2-8367-a6323eb96528">
+
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/92ef675f-14bc-4fc2-8367-a6323eb96528">
 
 
 License:
